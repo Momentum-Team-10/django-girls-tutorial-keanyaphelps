@@ -1,3 +1,4 @@
+ls
 # Django Girls Tutorial
 
 The Django Girls organization offers an awesome walkthrough of creating a simplified Django app. We'll use this to get the hang of how Django is put together and what it does.
